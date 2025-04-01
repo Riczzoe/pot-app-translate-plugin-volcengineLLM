@@ -2,7 +2,7 @@ async function translate(text, from, to, options) {
     const { config, utils } = options;
     const { tauriFetch: fetch } = utils;
 
-    let {apiKey, model = "deepseek-v3-241226"} = config;
+    let {apiKey, model = "deepseek-v3-250324"} = config;
     const requestPath = "https://ark.cn-beijing.volces.com/api/v3/chat/completions";
 
     const headers = {

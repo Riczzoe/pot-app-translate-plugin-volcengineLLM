@@ -10,9 +10,9 @@
       "display": "模型选择",
       "type": "select",
       "options": {
-        "deepseek-v3-241226": "deepseek-v3-241226"
+        "deepseek-v3-250324": "deepseek-v3-250324"
       },
-      "default": "deepseek-v3-241226"
+      "default": "deepseek-v3-250324"
     },
     {
       "key": "apiKey",
