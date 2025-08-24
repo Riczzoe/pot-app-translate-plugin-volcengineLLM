@@ -10,7 +10,8 @@
       "display": "模型选择",
       "type": "select",
       "options": {
-        "deepseek-v3-250324": "deepseek-v3-250324"
+        "deepseek-v3-250324": "deepseek-v3-250324",
+        "deepseek-v3-1-250821": "deepseek-v3-1-250821"
       },
       "default": "deepseek-v3-250324"
     },
